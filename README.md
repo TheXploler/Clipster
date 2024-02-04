@@ -7,10 +7,6 @@ My first ever “proper” ios shortcut
   
 I created this shortcut because it's hard to find a free clipboard manager on ios that's not littered with ads, so I decided to create one for myself
 
-## Screenshots
-![Screenshot 1](IMG_6509.jpeg)
-![Screenshot 1](IMG_6510.jpeg)
-
 ## Installing
 
 [Routinehub](https://routinehub.co/shortcut/17960/)
@@ -18,6 +14,11 @@ I created this shortcut because it's hard to find a free clipboard manager on io
 [Shareshortcuts](https://shareshortcuts.com/shortcuts/2705-clipster.html)
 
 [Direct](https://www.icloud.com/shortcuts/19427c5fd906404e8fdb18c1b97286af)
+
+## Screenshots
+Menu|Show All Saved Clipboards Option
+:-------------------------:|:-------------------------:
+![Screenshot 1](IMG_6509.jpeg)  |  ![Screenshot 2](IMG_6510.jpeg)
 
 ## Contributions
 All contributions are welcome!
