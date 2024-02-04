@@ -13,7 +13,7 @@ I created this shortcut because it's hard to find a free clipboard manager on io
 
 [Shareshortcuts](https://shareshortcuts.com/shortcuts/2705-clipster.html)
 
-[Direct](https://www.icloud.com/shortcuts/19427c5fd906404e8fdb18c1b97286af)
+[Direct](https://www.icloud.com/shortcuts/d23d3fd67e55405fab7feb3aea5c54bd)
 
 ## Screenshots
 Menu|Show All Saved Clipboards Option
