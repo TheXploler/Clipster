@@ -18,7 +18,7 @@ I created this shortcut because it's hard to find a free clipboard manager on io
 ## Screenshots
 Menu|Show All Saved Clipboards Option
 :-------------------------:|:-------------------------:
-![Screenshot 1](IMG_6509.jpeg)  |  ![Screenshot 2](IMG_6510.jpeg)
+![Screenshot 1](IMG_6513.jpeg)  |  ![Screenshot 2](IMG_6510.jpeg)
 
 ## Contributions
 All contributions are welcome!
