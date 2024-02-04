@@ -16,3 +16,4 @@ All contributions are welcome!
 If you face any issues or have a recommendation for a feature, don't hesitate to open a new issue
 
 Thanks 😊
+- Fandrest (TheXploler)
