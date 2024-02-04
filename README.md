@@ -9,7 +9,8 @@ I created this shortcut because it's hard to find a free clipboard manager on io
 
 
 ## Installing
-You can install it directly [here](https://www.icloud.com/shortcuts/19427c5fd906404e8fdb18c1b97286af)
+[Shareshortcuts](https://shareshortcuts.com/shortcuts/2705-clipster.html)
+[Direct](https://www.icloud.com/shortcuts/19427c5fd906404e8fdb18c1b97286af)
 
 ## Contributions
 All contributions are welcome!
