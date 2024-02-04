@@ -7,6 +7,9 @@ My first ever “proper” ios shortcut
   
 I created this shortcut because it's hard to find a free clipboard manager on ios that's not littered with ads, so I decided to create one for myself
 
+## Screenshots
+![Screenshot 1](IMG_6509.jpeg)
+![Screenshot 1](IMG_6510.jpeg)
 
 ## Installing
 
