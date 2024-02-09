@@ -8,10 +8,11 @@ My first ever “proper” ios shortcut
 I created this shortcut because it's hard to find a free clipboard manager on ios that's not littered with ads, so I decided to create one for myself
 
 ## Installing
-
-[Routinehub](https://routinehub.co/shortcut/17960/)
+[ShortcutsGallery](https://shortcutsgallery.com/shortcuts/clipster)
 
 [Shareshortcuts](https://shareshortcuts.com/shortcuts/2705-clipster.html)
+
+[Routinehub](https://routinehub.co/shortcut/17960/)
 
 [Direct](https://www.icloud.com/shortcuts/f9ad73bbea6e4531bb613103b206b9ff)
 
